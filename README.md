@@ -6,5 +6,3 @@
 -🌱 I also did many projects and an internship as a web developer 
 
 -📫 How to reach me...mail me at ujjwal241105@gmail.com
-
--->
