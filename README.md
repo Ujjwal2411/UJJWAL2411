@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-
-**Ujjwal2411/UJJWAL2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 Hi, I’m @Ujjwal2411
 👀 I’m interested in Web Development, SE, ML and AI.
 🌱 I also did many projects and an internship as a web developer 
