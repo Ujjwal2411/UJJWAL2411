@@ -1,5 +1,5 @@
 ## Hi there 👋
--👋 Hi, I’m @Ujjwal2411
+-👋 I’m @Ujjwal2411
 
 -👀 I’m interested in Web Development, SE, ML and AI.
 
